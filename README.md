@@ -1,3 +1,7 @@
-A simple War Card Game built with Swift while learning the fundamentals of iOS development.
+# **War Card Game**
 
-<img width="553" height="1024" alt="screenshot" src="https://github.com/user-attachments/assets/cc83969d-7a04-482f-b31f-b3cd19949a8d" />
+**A simple War Card Game built with Swift while learning the fundamentals of iOS development.**
+
+<br>
+
+<img width="553" height="1024" alt="screenshot" src="https://github.com/user-attachments/assets/fe8aada3-83a9-4de7-bc94-dcbb26282c4b" />
